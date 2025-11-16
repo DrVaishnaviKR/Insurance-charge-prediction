@@ -1,7 +1,10 @@
 # 🏥 Insurance Charges Predictor  
-### A Machine Learning Web App for Predicting Health Insurance Costs  
+### A Machine Learning Web App for Predicting Health Insurance Costs 
+<br/>
 **By: DrVaishnaviKR**
+<br/>
 AI Enthusiast | Healthcare + Data Science | Streamlit Developer
+<br/>
 Connect on LinkedIn --https://www.linkedin.com/in/dr-vaishnavi-k-r-577947314/
 
 🚀 **Live Demo:**  
