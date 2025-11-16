@@ -1,6 +1,8 @@
 # 🏥 Insurance Charges Predictor  
 ### A Machine Learning Web App for Predicting Health Insurance Costs  
 **By: DrVaishnaviKR**
+AI Enthusiast | Healthcare + Data Science | Streamlit Developer
+Connect on LinkedIn --https://www.linkedin.com/in/dr-vaishnavi-k-r-577947314/
 
 🚀 **Live Demo:**  
 👉 https://insurance-charges-predictor1-1.streamlit.app/
@@ -9,6 +11,36 @@ This project is an end-to-end implementation of a **Health Insurance Charge Pred
 It allows users to input basic health & demographic information and instantly get a predicted insurance cost.
 
 ---
+<p align="center">
+
+<!-- Project Status -->
+<img src="https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge">
+
+<!-- Streamlit -->
+<img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<!-- Machine Learning -->
+<img src="https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-blueviolet?style=for-the-badge">
+
+<!-- scikit-learn -->
+<img src="https://img.shields.io/badge/scikit--learn-Model-orange?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+<!-- Dataset -->
+<img src="https://img.shields.io/badge/Dataset-Health%20Insurance-green?style=for-the-badge">
+
+<!-- App Link -->
+<a href="https://insurance-charges-predictor1-1.streamlit.app/">
+<img src="https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?style=for-the-badge&logo=streamlit">
+</a>
+
+<!-- License -->
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+
+</p>
+
 
 ## 🌟 Project Highlights
 
