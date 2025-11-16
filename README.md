@@ -71,4 +71,12 @@ It allows users to input basic health & demographic information and instantly ge
 ---
 
 ## 📁 Project Structure
+📦 insurance-charges-predictor  
+├── app.py  
+├── linear_regression_model.pkl  
+├── Health_insurance (1).csv  
+├── min_max_values.json  
+├── requirements.txt  
+├── README.md  
+├── .gitignore 
 
