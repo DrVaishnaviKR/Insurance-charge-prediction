@@ -31,7 +31,7 @@ It allows users to input basic health & demographic information and instantly ge
 - Structured & reusable prediction pipeline
 - 100% browser-based deployment—no setup required for the user
 
-👉 Try it yourself using the live Streamlit URL!--https://insurance-charges-predictor1-1.streamlit.app/
+👉 Try it yourself using the live Streamlit URL!
 
 ---
 
