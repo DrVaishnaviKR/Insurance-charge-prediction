@@ -7,8 +7,7 @@ AI Enthusiast | Healthcare + Data Science | Streamlit Developer
 <br/>
 Connect on LinkedIn --https://www.linkedin.com/in/dr-vaishnavi-k-r-577947314/
 
-🚀 **Live Demo:**  
-👉 https://insurance-charges-predictor1-1.streamlit.app/
+🚀 **Live Demo:**  👉 https://insurance-charges-predictor1-1.streamlit.app/
 
 This project is an end-to-end implementation of a **Health Insurance Charge Prediction System** built using **Linear Regression** and deployed as an interactive **Streamlit Web App**.  
 It allows users to input basic health & demographic information and instantly get a predicted insurance cost.
@@ -129,6 +128,22 @@ Fork the repository, create a new branch and submit a pull request for improveme
 ---
 
 👉 Try it yourself using the live Streamlit URL!
+## 11. Installation
+Install locally with Python
+
+Step 1: Clone the repository
+git clone https://github.com/DrVaishnaviKR/Insurance-charge-prediction
+
+Step 2: Navigate into the project folder
+cd Insurance_Charges_Prediction
+
+Step 3: Install all required dependencies
+pip install -r requirements.txt
+
+Step 4: Launch the Streamlit application
+streamlit run app.py
+
+
 
 ---
 
